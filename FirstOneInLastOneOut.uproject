@@ -28,7 +28,7 @@
 		},
 		{
 			"Name": "FoliagePlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f0cb99ea851a40b682de1debe6c1bc08"
 		},
 		{
@@ -48,7 +48,7 @@
 		},
 		{
 			"Name": "BlockoutToolsPlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d337b97aca8947a893526964e179acfd"
 		},
 		{
@@ -58,7 +58,7 @@
 		},
 		{
 			"Name": "CommonLoadingScreen",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/655175e6418341be8924dd4108d7dd9f"
 		},
 		{
@@ -103,12 +103,12 @@
 		},
 		{
 			"Name": "SnapSystem",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/fa834687594944f5aafe2be8b44ad3f1"
 		},
 		{
 			"Name": "MoveIt",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1b8d6e55c50b4b189f283cbbe3d266d9"
 		},
 		{
@@ -148,7 +148,7 @@
 		},
 		{
 			"Name": "PSD2UMG",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1161474e899d45bba4d42ba5874e6fbc"
 		},
 		{
@@ -173,7 +173,7 @@
 		},
 		{
 			"Name": "SmartCollisionProfiles",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4bf3bed864364349be19d896ec4d0d86"
 		},
 		{
